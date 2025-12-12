@@ -22,7 +22,7 @@ They interact with an AI that understands **who they are**, how they think, and 
 
 ## 🔬 Scientific Foundation — 9 Types of Temperament
 
-Mizkolog is built on the **Nine Types of Temperament Model (9-Type Temperament System)**, a scientifically based framework focused on:
+Mizkolog is built on the **Nine Types of Temperament Model (9 Tip Mizaç Modeli)**, a scientifically based framework focused on:
 
 - Core temperament structures
 - Behavioral tendencies
